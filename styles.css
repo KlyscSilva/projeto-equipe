@@ -13,7 +13,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #000000;
+    background-color: #030328;
 }
 
 .container-diany{
@@ -34,7 +34,7 @@
 
 .card {
     border-radius: 16px;
-    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    box-shadow: #eef5f3 0px 5px 15px;
     cursor: pointer;
     width: 360px;
     display: flex;
@@ -43,12 +43,12 @@
     justify-content: center;
     position: relative;
     overflow: hidden;
-    background-image: linear-gradient(#333, #333);
+    background-image: linear-gradient(#0f0f0f, #eef5f3);
     transition: all .5s;
 }
 
 .card:hover {
-    background-image: linear-gradient(#443f3f, #272424);
+    background-image: linear-gradient(#000000, #3aaaaa);
 }
 
 .img1 {
